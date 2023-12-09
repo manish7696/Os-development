@@ -1,2 +1,1 @@
-# codeforces
-i do coding
+# deving os
